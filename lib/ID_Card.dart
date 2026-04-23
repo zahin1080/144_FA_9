@@ -51,6 +51,7 @@ class IdCard extends StatelessWidget {
                   const ListTile(
                     leading: Icon(Icons.phone),
                     title: Text("Phone : +8801639870964"),
+                    
                   )
                 ],
               ),
