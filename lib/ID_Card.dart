@@ -36,7 +36,7 @@ class IdCard extends StatelessWidget {
                   ),
                   const Text(
                     "Batch : 62 Batch, Department of CSE",
-                    style: TextStyle(fontSize: 16, color: Colors.orange), // Changed yellow to orange for better visibility on white background
+                    style: TextStyle(fontSize: 16, color: Colors.orange),
                   ),
                   const SizedBox(height: 10),
                   const Divider(),
